@@ -7,10 +7,10 @@ Caffi Rewards is a Chrome extension that helps users schedule a daily visit to `
 ### Data We Process
 
 - User settings stored locally in `chrome.storage.local`:
-  - scheduled check-in time
-  - language preference
-  - close-tab preference
-  - latest run status
+  - Scheduled check-in time
+  - Language preference
+  - Close-tab preference
+  - Latest run status
 - Limited website content on `https://app.caffiliate.vn/rewards` to locate and trigger check-in elements requested by the user.
 
 ### What We Do Not Collect
@@ -40,4 +40,4 @@ The extension does not execute remote code. All JavaScript, HTML, and CSS are pa
 
 ### Contact
 
-For privacy questions, contact: `pnamhn16Gmail.com`
+For privacy questions, contact: `pnamhn16@gmail.com`
